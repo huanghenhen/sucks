@@ -1,5 +1,3 @@
-import cv2
-
 def face_detect(imgPath, cascPath=None):
 	
 	if cascPath==None:
